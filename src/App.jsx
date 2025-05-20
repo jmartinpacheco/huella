@@ -1,4 +1,4 @@
-import imagen from '/QR_mensaje.png'
+import imagen from '/QR_mensaje.jpg'
 import './App.css'
 
 function App() {
